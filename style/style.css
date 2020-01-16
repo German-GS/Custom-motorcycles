@@ -100,7 +100,7 @@ body{
 
 @font-face{
     font-family: "KingDrops";
-    src: url("/src/font/KingdropsScript.ttf");
+    src: url("./src/font/KingdropsScript.ttf");
     font-display: block;
 }
 
