@@ -1,0 +1,106 @@
+body{
+    color: #FFCD00 !important;
+    background-color: #000 !important;
+}
+
+
+.nav-style{
+    background-color: #242424;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    
+}
+
+.navbar-toggler-icon{
+    color: #FFCD00 !important;
+}
+
+/* .font-navbar{
+    font-family: "FortunatesDecember";
+    font-size: 25px !important;
+    
+} */
+
+.title-seccion{
+    margin: 5px;
+    font-family: KingDrops;
+    
+}
+
+.name-nav img{
+    width: 190px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.nav-style a{
+    color: #FFCD00;
+}
+
+.nav-style a:hover{
+    color: #FEFF0D;
+}
+
+.dropdown-menu{
+    background-color: #242424 !important;
+}
+
+.dropdown-menu a{
+    color: #FFCD00;
+}
+
+.fab-icons{
+    font-size: 25px;
+}
+
+
+/*- Nav -*/
+
+
+
+.cont-offers, .cont-about-us{    
+    padding-bottom: 10px;
+}
+
+.card{
+    background-color: #242424 !important;
+}
+
+.card img{
+    height: 15rem;
+    width: auto;
+}
+
+.btn-card{
+    background-color: #FF0000 !important;
+    color: #FFCD00 !important; 
+}
+
+/*---About us---*/
+.img-aboutus{
+    height: 420px;
+    
+}
+
+
+.fab-icons-footer{
+    font-size: 15px;
+}
+
+.cont-footer{
+    padding: 5px;
+    background-color: #242424;
+    color: #FFCD00;
+}
+
+
+
+
+
+@font-face{
+    font-family: "KingDrops";
+    src: url("/src/font/KingdropsScript.ttf");
+    font-display: block;
+}
+
