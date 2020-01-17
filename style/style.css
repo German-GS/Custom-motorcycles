@@ -79,7 +79,8 @@ body{
 
 /*---About us---*/
 .img-aboutus{
-    height: 420px;
+    height: 100%;
+    width: 100%;
     
 }
 
