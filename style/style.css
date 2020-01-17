@@ -92,7 +92,11 @@ body{
     padding: 5px;
     background-color: #242424;
     color: #FFCD00;
-    height: 120px;
+
+}
+
+.info-footer p{
+    margin-bottom: 0 !important;
 }
 
 
