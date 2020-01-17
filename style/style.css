@@ -50,6 +50,12 @@ body{
     color: #FFCD00;
 }
 
+.dropdown-menu a:hover{
+    background-color: #4D4D4D;
+    color: #FEFF0D;
+}
+
+
 .fab-icons{
     font-size: 25px;
 }
