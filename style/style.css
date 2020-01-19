@@ -3,6 +3,11 @@ body{
     background-color: #000 !important;
 }
 
+.carousel, .cont-offers, .aboutUs, .contact-us{
+    width:  100% !important;
+    height: auto !important;
+}
+
 
 .nav-style{
     background-color: #242424;
@@ -15,11 +20,6 @@ body{
     color: #FFCD00 !important;
 }
 
-/* .font-navbar{
-    font-family: "FortunatesDecember";
-    font-size: 25px !important;
-    
-} */
 
 .title-seccion{
     margin: 5px;
